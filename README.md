@@ -24,13 +24,13 @@ As contribuições estão identificadas por meio do acrônimo **NG**.
 
 ## 📐 Diagramas
 
-(Em desenvolvimento)
+* MCU - Casos de Uso
 
 ---
 
 ## 🛠 Ferramentas
 
-* UML
+* UML (asta)
 
 ---
 
