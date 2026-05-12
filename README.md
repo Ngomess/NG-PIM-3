@@ -25,6 +25,8 @@ As contribuições estão identificadas por meio do acrônimo **NG**.
 ## 📐 Diagramas
 
 * MCU - Casos de Uso
+* Diagrama de Classes
+* Diagrama de Sequência
 
 ---
 
